@@ -8,7 +8,7 @@ const Hero = () => {
         <p className="text-lg text-center justify-center flex max-w-md">A passionate web developer exploring the world of coding and creativity. This is a simple Next.js application for practice.</p>
         
         
-        <Image src="/images/picture.jpg" alt="picture.jpg" width={200} height={200} className="picture.jpg - border-spacing-100 rounded-full mx-20 "></Image>
+        <Image src="/Images/Picture.jpg" alt="picture.jpg" width={200} height={200} className="picture.jpg - border-spacing-100 rounded-full mx-20 "></Image>
           
           <br /><button className="rounded- bg-sky-600 text-black  mb-10  ">More About Me</button>
         
